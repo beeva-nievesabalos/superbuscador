@@ -1,0 +1,176 @@
+informacion 	 informacion,informacion,aviso,consejo,filtracion,idea,indicacion,informacion,informacion_confidencial,ventaja,informacion,denuncia,informacion
+fiscal 	 fiscal,fiscal
+clave 	 clave,teclado,teclado_de_piano,clave,cuña,piedra_angular,clave,codigo,clave,codigo_secreto,cifra,clave,criptografia,clave,clave,clave,combinacion,clave,teclado,teclado_de_piano,clave,cuña,piedra_angular,clave,codigo,clave,codigo_secreto,cifra,clave,criptografia,clave,clave,clave,combinacion,clavar,especificar,identificar_exactamente,reducir,clavar,enfocar,fijar,clavar,completar,arrestar,atrapar,capturar,clavar,coger,detener,pillar,prender,clavar,clavar,clavar,clavar,hincar,clavar,prender,clavar,especificar,identificar_exactamente,reducir,clavar,enfocar,fijar,clavar,completar,arrestar,atrapar,capturar,clavar,coger,detener,pillar,prender,clavar,clavar,clavar,clavar,hincar,clavar,prender,clavar,especificar,identificar_exactamente,reducir,clavar,enfocar,fijar,clavar,completar,arrestar,atrapar,capturar,clavar,coger,detener,pillar,prender,clavar,clavar,clavar,clavar,hincar,clavar,prender
+de 	 de,delaware,estado_diamante,primer_estado
+operaciones 	 operacion,operacion,procedimiento,intervencion,operacion,operacion,operacion_matematica,proceso_matematico,maniobra,operacion,operacion,operacion
+recibos 	 recepcion,recibo,factura,recibo,recibo,recibo,recibo_desprendible
+transferencias 	 transferencia,trasferencia,transferencia,transporte,transferencia,trasferencia,traspaso,generalizacion,transferencia,transferencia
+transferencia 	 transferencia,trasferencia,transferencia,transporte,transferencia,trasferencia,traspaso,generalizacion,transferencia,transferencia
+renta 	 declaracion_fiscal,declaracion_tributaria,renta,renta,renta,declaracion_fiscal,declaracion_tributaria,renta,renta,renta
+fiscal 	 fiscal,fiscal
+swift 	 
+datos 	 dato,dato
+fiscales 	 fiscal,fiscal
+clave 	 clave,teclado,teclado_de_piano,clave,cuña,piedra_angular,clave,codigo,clave,codigo_secreto,cifra,clave,criptografia,clave,clave,clave,combinacion,clave,teclado,teclado_de_piano,clave,cuña,piedra_angular,clave,codigo,clave,codigo_secreto,cifra,clave,criptografia,clave,clave,clave,combinacion,clavar,especificar,identificar_exactamente,reducir,clavar,enfocar,fijar,clavar,completar,arrestar,atrapar,capturar,clavar,coger,detener,pillar,prender,clavar,clavar,clavar,clavar,hincar,clavar,prender,clavar,especificar,identificar_exactamente,reducir,clavar,enfocar,fijar,clavar,completar,arrestar,atrapar,capturar,clavar,coger,detener,pillar,prender,clavar,clavar,clavar,clavar,hincar,clavar,prender,clavar,especificar,identificar_exactamente,reducir,clavar,enfocar,fijar,clavar,completar,arrestar,atrapar,capturar,clavar,coger,detener,pillar,prender,clavar,clavar,clavar,clavar,hincar,clavar,prender
+operaciones 	 operacion,operacion,procedimiento,intervencion,operacion,operacion,operacion_matematica,proceso_matematico,maniobra,operacion,operacion,operacion
+renta 	 declaracion_fiscal,declaracion_tributaria,renta,renta,renta,declaracion_fiscal,declaracion_tributaria,renta,renta,renta
+2013	 
+area 	 area,zona,area,area,superficie,area,region,zona,area,campo,terreno,ambito,area,area_de_estudio,area_de_jurisdiccion,area_tematica,campo,campo_de_estudio,disciplina,estudio,tema,area,area,sector,area,area,zona,area,area,superficie,area,region,zona,area,campo,terreno,ambito,area,area_de_estudio,area_de_jurisdiccion,area_tematica,campo,campo_de_estudio,disciplina,estudio,tema,area,area,sector,area
+personal 	 personal,individual,particular,personal,individual,particular,personal,personal,personal,personal,personal,personal,plantilla,personal
+mis 	 
+impuestos 	 impuesto,canon,carga,contribucion,gabela,gravamen,imposicion,impuesto,tasa,tributacion,tributo,cargar,imponer,infligir,inflingir,imponer,gravar,imponer,imponer,mandar
+chat 	 chat,chat
+mis 	 
+recibos 	 recepcion,recibo,factura,recibo,recibo,recibo,recibo_desprendible
+devolver 	 devolver,devolver,reponer,devolver,devolver,llevar_de_regreso,regresar,traer_de_regreso,devolver,reembolsar,regresar,volver_a_pagar,devolver,entregar,regresar,devolver,entregar,presentar,referir,rendir,devolver,compensar,devolver,pagar,reembolsar,devolver,devolver
+recibo 	 recepcion,recibo,factura,recibo,recibo,recibo,recibo_desprendible,acoger,recibir,recibir,recibir,invitar,recibir,captar,recibir,cobrar,recibir,recibir,recibir,ganar,recibir,sacar,acoger,asilar,dar_albergue,recibir,encontrar,encontrarse,recibir,absorber,absorver,recibir,tomar_para_si
+impuestos 	 impuesto,canon,carga,contribucion,gabela,gravamen,imposicion,impuesto,tasa,tributacion,tributo,cargar,imponer,infligir,inflingir,imponer,gravar,imponer,imponer,mandar
+domiciliaciones 	 alojamiento,casa,domiciliacion,pension,trincheras
+recibos 	 recepcion,recibo,factura,recibo,recibo,recibo,recibo_desprendible
+domiciliados 	 albergar,alojar,dar_alojamiento,domiciliar,hospedar
+depositos 	 deposito,almacenaje,almacenamiento,deposito,reposicion,deposito,deposito,almacen,deposito,deposito,almacen,deposito,deposito,deposito,sedimento,aluvion,deposito,sedimentacion,deposito,deposito,ingreso,deposito,deposito,deposito
+activar 	 activar,animar,dar_animos,estimular,exhortar,incitar,jalear,motivar,activar
+tarjeta 	 tarjeta,tarjeta_de_expansion,tarjeta,tarjeta,tarjeta
+cambiar 	 cambiar,mudar,cambiar,alterar,cambiar,mudar,transformar,variar,alterar,cambiar,modificar,cambiar,intercambiar,cambiar,cambiar,intercambiar,relevar,cambiar,abandonar,cambiar,bambolearse,cambiar,escorar,inclinarse,ladearse,cambiar,cambiar,cobrar,cambiar,intercambiar,cambiar,intercambiar,cambiar,intercambiar,cambiar,variar
+clave 	 clave,teclado,teclado_de_piano,clave,cuña,piedra_angular,clave,codigo,clave,codigo_secreto,cifra,clave,criptografia,clave,clave,clave,combinacion,clavar,especificar,identificar_exactamente,reducir,clavar,enfocar,fijar,clavar,completar,arrestar,atrapar,capturar,clavar,coger,detener,pillar,prender,clavar,clavar,clavar,clavar,hincar,clavar,prender,clavar,especificar,identificar_exactamente,reducir,clavar,enfocar,fijar,clavar,completar,arrestar,atrapar,capturar,clavar,coger,detener,pillar,prender,clavar,clavar,clavar,clavar,hincar,clavar,prender,clavar,especificar,identificar_exactamente,reducir,clavar,enfocar,fijar,clavar,completar,arrestar,atrapar,capturar,clavar,coger,detener,pillar,prender,clavar,clavar,clavar,clavar,hincar,clavar,prender
+de 	 de,delaware,estado_diamante,primer_estado
+operaciones 	 operacion,operacion,procedimiento,intervencion,operacion,operacion,operacion_matematica,proceso_matematico,maniobra,operacion,operacion,operacion
+oficinas 	 cargo,oficina,posicion,puesto,oficina,agencia,departamento,oficina
+seguridad 	 determinacion,firmeza,seguridad,garantia,seguridad,firmeza,seguridad,seguridad,certeza,seguridad,aplomo,autoridad,certidumbre,conviccion,seguridad,seguridad,firmeza,seguridad,departamento_de_seguridad,seguridad,proteccion,seguridad,seguro,seguridad,seguridad,determinacion,firmeza,seguridad,garantia,seguridad,firmeza,seguridad,seguridad,certeza,seguridad,aplomo,autoridad,certidumbre,conviccion,seguridad,seguridad,firmeza,seguridad,departamento_de_seguridad,seguridad,proteccion,seguridad,seguro,seguridad,seguridad
+area 	 
+privada 	 desproveer,empobrecer,privar,privar,deprivar,desnudar,despojar,desposeer,privar,excluir,privar,privado,interno,privado,secreto,interno,privado,secreto,privado
+tarjeta 	 tarjeta,tarjeta_de_expansion,tarjeta,tarjeta,tarjeta,tarjeta,tarjeta_de_expansion,tarjeta,tarjeta,tarjeta
+virtual 	 virtual,virtual
+devolver 	 devolver,devolver,reponer,devolver,devolver,llevar_de_regreso,regresar,traer_de_regreso,devolver,reembolsar,regresar,volver_a_pagar,devolver,entregar,regresar,devolver,entregar,presentar,referir,rendir,devolver,compensar,devolver,pagar,reembolsar,devolver,devolver
+un 	 
+recibo 	 recepcion,recibo,factura,recibo,recibo,recibo,recibo_desprendible,acoger,recibir,recibir,recibir,invitar,recibir,captar,recibir,cobrar,recibir,recibir,recibir,ganar,recibir,sacar,acoger,asilar,dar_albergue,recibir,encontrar,encontrarse,recibir,absorber,absorver,recibir,tomar_para_si
+datos 	 dato,dato,conjunto_de_datos,corpus,datos
+personales 	 personal,individual,particular,personal,individual,particular,personal,personal,personal,personal,personal,personal,plantilla,personal
+ver 	 descubrir,enterar,enterarse,ver,considerar,ver,ver,ver,ver,mirar,observar,ver,presenciar,ver,ver,ver,mirar,observar,ver,ver,acechar,discernir,espiar,ver,ver,ver,visitar
+nomina 	 lista,nomina,ganancias,nomina,paga,remuneracion,salario,sueldo,nomina,nomina
+correspondencia 	 conexion,correspondencia,acuerdo,correspondencia,correspondencia,paralelismo,correspondencia,correspondencia,funcion,conexion,correspondencia,acuerdo,correspondencia,correspondencia,paralelismo,correspondencia,correspondencia,funcion
+coches 	 auto,automovil,carro,coche,maquina,turismo,vehiculo,automotor,coche,vagon,coche,vagon,vagon_de_pasajeros
+informe 	 comprobacion,ensayo,informe,prueba,test,composicion,informe,redaccion,tema,trabajo,caza_de_ratas,informe,informe,referencia,relacion,estudio,informe,memoria,debriefing,informe,parte,reunion_de_informacion,comunicar,decir,informar,avisar,informar,instruir,informar,informar,pasar_informacion,advertir,avisar,informar,participar,informar,informar,relatar,comunicar,decir,informar,avisar,informar,instruir,informar,informar,pasar_informacion,advertir,avisar,informar,participar,informar,informar,relatar,comprobacion,ensayo,informe,prueba,test,composicion,informe,redaccion,tema,trabajo,caza_de_ratas,informe,informe,referencia,relacion,estudio,informe,memoria,debriefing,informe,parte,reunion_de_informacion,comunicar,decir,informar,avisar,informar,instruir,informar,informar,pasar_informacion,advertir,avisar,informar,participar,informar,informar,relatar
+fiscal 	 fiscal,fiscal
+correspondencia 	 conexion,correspondencia,acuerdo,correspondencia,correspondencia,paralelismo,correspondencia,correspondencia,funcion
+virtual 	 virtual,virtual
+comisiones 	 comision,consumacion,perpetracion,comision,encargo,mandato,comision,encargo,comision,comite,comision,comite,delegacion,diputacion,encomienda,comision,prima,comisionar
+retenciones 	 retencion
+cambiar 	 cambiar,mudar,cambiar,alterar,cambiar,mudar,transformar,variar,alterar,cambiar,modificar,cambiar,intercambiar,cambiar,cambiar,intercambiar,relevar,cambiar,abandonar,cambiar,bambolearse,cambiar,escorar,inclinarse,ladearse,cambiar,cambiar,cobrar,cambiar,intercambiar,cambiar,intercambiar,cambiar,intercambiar,cambiar,variar
+clave 	 clave,teclado,teclado_de_piano,clave,cuña,piedra_angular,clave,codigo,clave,codigo_secreto,cifra,clave,criptografia,clave,clave,clave,combinacion,clavar,especificar,identificar_exactamente,reducir,clavar,enfocar,fijar,clavar,completar,arrestar,atrapar,capturar,clavar,coger,detener,pillar,prender,clavar,clavar,clavar,clavar,hincar,clavar,prender,clavar,especificar,identificar_exactamente,reducir,clavar,enfocar,fijar,clavar,completar,arrestar,atrapar,capturar,clavar,coger,detener,pillar,prender,clavar,clavar,clavar,clavar,hincar,clavar,prender,clavar,especificar,identificar_exactamente,reducir,clavar,enfocar,fijar,clavar,completar,arrestar,atrapar,capturar,clavar,coger,detener,pillar,prender,clavar,clavar,clavar,clavar,hincar,clavar,prender
+cambiar 	 cambiar,mudar,cambiar,alterar,cambiar,mudar,transformar,variar,alterar,cambiar,modificar,cambiar,intercambiar,cambiar,cambiar,intercambiar,relevar,cambiar,abandonar,cambiar,bambolearse,cambiar,escorar,inclinarse,ladearse,cambiar,cambiar,cobrar,cambiar,intercambiar,cambiar,intercambiar,cambiar,intercambiar,cambiar,variar
+contraseña 	 codigo_de_acceso,contraseña
+declaracion 	 declaracion,resolucion,afirmacion,declaracion,afirmacion,declaracion,manifestacion,autorizacion,dictum,declaracion,dictamen,pronunciamiento,sentencia,declaracion,afirmacion,declaracion,garantia,declaracion,resolucion,afirmacion,declaracion,afirmacion,declaracion,manifestacion,autorizacion,dictum,declaracion,dictamen,pronunciamiento,sentencia,declaracion,afirmacion,declaracion,garantia
+renta 	 declaracion_fiscal,declaracion_tributaria,renta,renta,renta
+recibo 	 recepcion,recibo,factura,recibo,recibo,recibo,recibo_desprendible,acoger,recibir,recibir,recibir,invitar,recibir,captar,recibir,cobrar,recibir,recibir,recibir,ganar,recibir,sacar,acoger,asilar,dar_albergue,recibir,encontrar,encontrarse,recibir,absorber,absorver,recibir,tomar_para_si,recepcion,recibo,factura,recibo,recibo,recibo,recibo_desprendible
+hacienda 	 cortijo,estancia,hacienda,masia,cortijo,hacienda,hacienda,finca,hacienda,terreno,tierra,fortuna,hacienda,patrimonio,riqueza,hacienda,hacienda,cortijo,estancia,hacienda,masia,cortijo,hacienda,hacienda,finca,hacienda,terreno,tierra,fortuna,hacienda,patrimonio,riqueza,hacienda,hacienda
+agenda 	 
+declaracion 	 declaracion,resolucion,afirmacion,declaracion,afirmacion,declaracion,manifestacion,autorizacion,dictum,declaracion,dictamen,pronunciamiento,sentencia,declaracion,afirmacion,declaracion,garantia,declaracion,resolucion,afirmacion,declaracion,afirmacion,declaracion,manifestacion,autorizacion,dictum,declaracion,dictamen,pronunciamiento,sentencia,declaracion,afirmacion,declaracion,garantia
+renta 	 declaracion_fiscal,declaracion_tributaria,renta,renta,renta
+clave 	 clave,teclado,teclado_de_piano,clave,cuña,piedra_angular,clave,codigo,clave,codigo_secreto,cifra,clave,criptografia,clave,clave,clave,combinacion,clavar,especificar,identificar_exactamente,reducir,clavar,enfocar,fijar,clavar,completar,arrestar,atrapar,capturar,clavar,coger,detener,pillar,prender,clavar,clavar,clavar,clavar,hincar,clavar,prender,clavar,especificar,identificar_exactamente,reducir,clavar,enfocar,fijar,clavar,completar,arrestar,atrapar,capturar,clavar,coger,detener,pillar,prender,clavar,clavar,clavar,clavar,hincar,clavar,prender,clavar,especificar,identificar_exactamente,reducir,clavar,enfocar,fijar,clavar,completar,arrestar,atrapar,capturar,clavar,coger,detener,pillar,prender,clavar,clavar,clavar,clavar,hincar,clavar,prender
+hacer 	 hacer,hacer,hacer,derivar,establecer,formular,hacer,causar,hacer,inducir,causar,crear,hacer,realizar,hacer,crear,hacer,producir,hacer,llevar_a_cabo,hacer,hacer,inducir,componer,hacer,preparar,elaborar,hacer,ejecutar,hacer,dar,hacer,crear,hacer,producir,cortar,hacer,recortar,hacer,lograr,tener,actuar,hacer,hacer,efectuar,hacer,realizar,cumplir,hacer,realizar,hacer,cometer,hacer,componer,crear,hacer,reunir,hacer
+transferencia 	 transferencia,trasferencia,transferencia,transporte,transferencia,trasferencia,traspaso,generalizacion,transferencia,transferencia
+cambiar 	 cambiar,mudar,cambiar,alterar,cambiar,mudar,transformar,variar,alterar,cambiar,modificar,cambiar,intercambiar,cambiar,cambiar,intercambiar,relevar,cambiar,abandonar,cambiar,bambolearse,cambiar,escorar,inclinarse,ladearse,cambiar,cambiar,cobrar,cambiar,intercambiar,cambiar,intercambiar,cambiar,intercambiar,cambiar,variar
+clave 	 clave,teclado,teclado_de_piano,clave,cuña,piedra_angular,clave,codigo,clave,codigo_secreto,cifra,clave,criptografia,clave,clave,clave,combinacion,clavar,especificar,identificar_exactamente,reducir,clavar,enfocar,fijar,clavar,completar,arrestar,atrapar,capturar,clavar,coger,detener,pillar,prender,clavar,clavar,clavar,clavar,hincar,clavar,prender,clavar,especificar,identificar_exactamente,reducir,clavar,enfocar,fijar,clavar,completar,arrestar,atrapar,capturar,clavar,coger,detener,pillar,prender,clavar,clavar,clavar,clavar,hincar,clavar,prender,clavar,especificar,identificar_exactamente,reducir,clavar,enfocar,fijar,clavar,completar,arrestar,atrapar,capturar,clavar,coger,detener,pillar,prender,clavar,clavar,clavar,clavar,hincar,clavar,prender
+operaciones 	 operacion,operacion,procedimiento,intervencion,operacion,operacion,operacion_matematica,proceso_matematico,maniobra,operacion,operacion,operacion
+contactos 	 contacto,contacto,contacto,conexion,contacto,coordinacion,contacto,contacto,roce,toque,contacto,enlace,contacto,contacto,contacto,intercambio,relacion,trato,contacto
+fiscal 	 fiscal,fiscal
+prestamos 	 prestamo,prestamo,prestamo,prestamo_lingüistico,emprestito,prestamo
+pagar 	 avalar,pagar,subvencionar,coger,desquitarse,pagar,pillar,consolidar,pagar,pagar,abonar,pagar,pagar,liquidar,pagar,cancelar,costear,pagar,dar,devengar,pagar,producir,rendir,compensar,devolver,pagar,reembolsar,pagar,enmendarse,expiar,pagar
+recibo 	 recepcion,recibo,factura,recibo,recibo,recibo,recibo_desprendible,acoger,recibir,recibir,recibir,invitar,recibir,captar,recibir,cobrar,recibir,recibir,recibir,ganar,recibir,sacar,acoger,asilar,dar_albergue,recibir,encontrar,encontrarse,recibir,absorber,absorver,recibir,tomar_para_si
+empleo 	 empleo,uso,utilizacion,empleo,ocupacion,trabajo,emplear,usar,utilizar,contratar,emplear,reclutar,contratar,emplear
+bbva 	 
+game 	 
+horario 	 horario,horario,horario,horario
+devolver 	 devolver,devolver,reponer,devolver,devolver,llevar_de_regreso,regresar,traer_de_regreso,devolver,reembolsar,regresar,volver_a_pagar,devolver,entregar,regresar,devolver,entregar,presentar,referir,rendir,devolver,compensar,devolver,pagar,reembolsar,devolver,devolver
+recibos 	 recepcion,recibo,factura,recibo,recibo,recibo,recibo_desprendible
+pago 	 abono,pago,pago,abono,desembolso,pago,amortizacion,pago,reembolso,reintegro,avalar,pagar,subvencionar,coger,desquitarse,pagar,pillar,consolidar,pagar,pagar,abonar,pagar,pagar,liquidar,pagar,cancelar,costear,pagar,dar,devengar,pagar,producir,rendir,compensar,devolver,pagar,reembolsar,pagar,enmendarse,expiar,pagar,abono,pago,pago,abono,desembolso,pago,amortizacion,pago,reembolso,reintegro
+recibos 	 recepcion,recibo,factura,recibo,recibo,recibo,recibo_desprendible
+creditos 	 credo,fe,religion,credo
+certificado 	 autentificar,certificar,escriturar,certificar,licenciar,certificado,autentificado,certificado,certificado,registrado,certificado,credencial,certificado,titulo,certificado,credencial,certificado,titulo
+efectivo 	 efectivo,vigente,efectivo,acuñacion,efectivo,metalico,acuñacion,efectivo,metalico
+movil 	 
+transferencia 	 transferencia,trasferencia,transferencia,transporte,transferencia,trasferencia,traspaso,generalizacion,transferencia,transferencia,transferencia,trasferencia,transferencia,transporte,transferencia,trasferencia,traspaso,generalizacion,transferencia,transferencia
+internacional 	 internacional
+movil 	 
+bbvanet 	 
+pagar 	 avalar,pagar,subvencionar,coger,desquitarse,pagar,pillar,consolidar,pagar,pagar,abonar,pagar,pagar,liquidar,pagar,cancelar,costear,pagar,dar,devengar,pagar,producir,rendir,compensar,devolver,pagar,reembolsar,pagar,enmendarse,expiar,pagar
+recibos 	 recepcion,recibo,factura,recibo,recibo,recibo,recibo_desprendible
+game 	 
+tarjetas 	 tarjeta,tarjeta_de_expansion,tarjeta,tarjeta,tarjeta
+compras 	 adquisicion,compra,compra,compra,compra,adquirir,comprar,comprar,llevarse,comprar
+clave 	 clave,teclado,teclado_de_piano,clave,cuña,piedra_angular,clave,codigo,clave,codigo_secreto,cifra,clave,criptografia,clave,clave,clave,combinacion,clave,teclado,teclado_de_piano,clave,cuña,piedra_angular,clave,codigo,clave,codigo_secreto,cifra,clave,criptografia,clave,clave,clave,combinacion,clavar,especificar,identificar_exactamente,reducir,clavar,enfocar,fijar,clavar,completar,arrestar,atrapar,capturar,clavar,coger,detener,pillar,prender,clavar,clavar,clavar,clavar,hincar,clavar,prender,clavar,especificar,identificar_exactamente,reducir,clavar,enfocar,fijar,clavar,completar,arrestar,atrapar,capturar,clavar,coger,detener,pillar,prender,clavar,clavar,clavar,clavar,hincar,clavar,prender,clavar,especificar,identificar_exactamente,reducir,clavar,enfocar,fijar,clavar,completar,arrestar,atrapar,capturar,clavar,coger,detener,pillar,prender,clavar,clavar,clavar,clavar,hincar,clavar,prender
+de 	 de,delaware,estado_diamante,primer_estado
+operaciones 	 operacion,operacion,procedimiento,intervencion,operacion,operacion,operacion_matematica,proceso_matematico,maniobra,operacion,operacion,operacion
+movimientos 	 movida,movimiento,desplazamiento,movimiento,traslado,movimiento,agitacion,bulla,bullicio,jaleo,movimiento,revuelo,ruido,torbellino,campaña,movimiento,movimiento,movimiento,movimiento,movimiento,movimiento,movimiento_intestinal,movimiento
+prestamo 	 
+viviendas 	 casa,domicilio,habitaculo,morada,piso,residencia,vivienda,vivienda,infravivienda,piso,vivienda
+divisas 	 divisa,emblema,divisa,moneda,divisar,divisar
+pias 	 
+pago 	 abono,pago,pago,abono,desembolso,pago,amortizacion,pago,reembolso,reintegro,avalar,pagar,subvencionar,coger,desquitarse,pagar,pillar,consolidar,pagar,pagar,abonar,pagar,pagar,liquidar,pagar,cancelar,costear,pagar,dar,devengar,pagar,producir,rendir,compensar,devolver,pagar,reembolsar,pagar,enmendarse,expiar,pagar,abono,pago,pago,abono,desembolso,pago,amortizacion,pago,reembolso,reintegro
+de 	 de,delaware,estado_diamante,primer_estado
+recibos 	 recepcion,recibo,factura,recibo,recibo,recibo,recibo_desprendible
+iupay 	 
+mi 	 
+perfil 	 perfil,personalidad,perfil,perfil,perfil,perfil,contorno,perfil,perfil
+seguro 	 seguro,seguro,seguro,seguro,seguro,seguro,inevitable,seguro,definido,definitivo,fijo,preciso,seguro,seguro,certero,seguro,protegido,seguro,seguro,seguro,seguro,seguro,seguro,firme,seguro,seguro,estable,fijo,firme,seguro,seguro,seguro,seguro,seguro,seguridad_social,seguro,seguro,puerta,seguro,seguro,seguro,seguro,poliza,poliza_de_seguros,seguro,proteccion,seguridad,seguro,contrato_de_seguro,seguro,seguro,ciertamente,con_bastante_seguridad,con_certeza,con_seguridad,seguro,seguridad_social,seguro,seguro,puerta,seguro,seguro,seguro,seguro,poliza,poliza_de_seguros,seguro,proteccion,seguridad,seguro,contrato_de_seguro,seguro,seguro
+coche 	 auto,automovil,carro,coche,maquina,turismo,vehiculo,automotor,coche,vagon,coche,vagon,vagon_de_pasajeros
+fondos 	 fondo,reves,ancas,ano,as_de_oros,asentaderas,asiento,cachas,cachetes,cola,culo,fin,fondo,gluteos,grupa,nalga,nalgas,ocote,pandero,pompis,posaderas,posas,posterior,rule,suelo,tras,trasero,traste,tuje,fondo,fondo,fondo,lecho,fondo,suelo
+pago 	 abono,pago,pago,abono,desembolso,pago,amortizacion,pago,reembolso,reintegro,avalar,pagar,subvencionar,coger,desquitarse,pagar,pillar,consolidar,pagar,pagar,abonar,pagar,pagar,liquidar,pagar,cancelar,costear,pagar,dar,devengar,pagar,producir,rendir,compensar,devolver,pagar,reembolsar,pagar,enmendarse,expiar,pagar,abono,pago,pago,abono,desembolso,pago,amortizacion,pago,reembolso,reintegro
+impuestos 	 impuesto,canon,carga,contribucion,gabela,gravamen,imposicion,impuesto,tasa,tributacion,tributo,cargar,imponer,infligir,inflingir,imponer,gravar,imponer,imponer,mandar
+regalos 	 regalo,regalo,dadiva,obsequio,presente,regalo,presente,regalo
+efectivo 	 efectivo,vigente,efectivo,acuñacion,efectivo,metalico,acuñacion,efectivo,metalico
+movil 	 
+mandar 	 decir,encargar,mandar,ordenar,dictar,mandar,mandar,ordenar,mandar,mandar,ordenar,mandar,echar,enviar,mandar,remitir,enviar,llevarse,mandar,remitir,enviar,mandar,remitir,embarcar,enviar,mandar,transportar,echar,enviar,mandar,controlar,mandar,imponer,mandar,controlar,dominar,mandar
+dinero 	 dinero,dinero,dinero,dinero,moneda
+enviar 	 echar,enviar,mandar,remitir,enviar,llevarse,mandar,remitir,enviar,enviar,mandar,remitir,embarcar,enviar,mandar,transportar,echar,enviar,mandar,despachar,enviar,enviar_fuera,remitir,enviar,remitir
+dinero 	 dinero,dinero,dinero,dinero,moneda
+hacer 	 hacer,hacer,hacer,derivar,establecer,formular,hacer,causar,hacer,inducir,causar,crear,hacer,realizar,hacer,crear,hacer,producir,hacer,llevar_a_cabo,hacer,hacer,inducir,componer,hacer,preparar,elaborar,hacer,ejecutar,hacer,dar,hacer,crear,hacer,producir,cortar,hacer,recortar,hacer,lograr,tener,actuar,hacer,hacer,efectuar,hacer,realizar,cumplir,hacer,realizar,hacer,cometer,hacer,componer,crear,hacer,reunir,hacer
+transferencia 	 transferencia,trasferencia,transferencia,transporte,transferencia,trasferencia,traspaso,generalizacion,transferencia,transferencia
+realizar 	 ejecutar,realizar,causar,crear,hacer,realizar,organizar,realizar,realizar,realizar,efectuar,hacer,realizar,cumplir,hacer,realizar
+transferencia 	 transferencia,trasferencia,transferencia,transporte,transferencia,trasferencia,traspaso,generalizacion,transferencia,transferencia
+mandar 	 decir,encargar,mandar,ordenar,dictar,mandar,mandar,ordenar,mandar,mandar,ordenar,mandar,echar,enviar,mandar,remitir,enviar,llevarse,mandar,remitir,enviar,mandar,remitir,embarcar,enviar,mandar,transportar,echar,enviar,mandar,controlar,mandar,imponer,mandar,controlar,dominar,mandar
+dinero 	 dinero,dinero,dinero,dinero,moneda
+mover 	 disturbar,mover,acelerar,avivar,impulsar,mover,moverse,movilizarse,ponerse_en_marcha,jugar,mover,mover,trasladar,desplazar,mover
+dinero 	 dinero,dinero,dinero,dinero,moneda
+ver 	 descubrir,enterar,enterarse,ver,considerar,ver,ver,ver,ver,mirar,observar,ver,presenciar,ver,ver,ver,mirar,observar,ver,ver,acechar,discernir,espiar,ver,ver,ver,visitar
+mis 	 
+transferencias 	 transferencia,trasferencia,transferencia,transporte,transferencia,trasferencia,traspaso,generalizacion,transferencia,transferencia
+mis 	 
+transferencias 	 transferencia,trasferencia,transferencia,transporte,transferencia,trasferencia,traspaso,generalizacion,transferencia,transferencia
+transferencias 	 transferencia,trasferencia,transferencia,transporte,transferencia,trasferencia,traspaso,generalizacion,transferencia,transferencia
+recibidas 	 acoger,recibir,recibir,recibir,invitar,recibir,captar,recibir,cobrar,recibir,recibir,recibir,ganar,recibir,sacar,acoger,asilar,dar_albergue,recibir,encontrar,encontrarse,recibir,absorber,absorver,recibir,tomar_para_si
+transferencias 	 transferencia,trasferencia,transferencia,transporte,transferencia,trasferencia,traspaso,generalizacion,transferencia,transferencia
+realizadas 	 ejecutar,realizar,causar,crear,hacer,realizar,organizar,realizar,realizar,realizar,efectuar,hacer,realizar,cumplir,hacer,realizar
+consultar 	 consultar,acordar,consultar,consultar,consultar
+movimientos 	 movida,movimiento,desplazamiento,movimiento,traslado,movimiento,agitacion,bulla,bullicio,jaleo,movimiento,revuelo,ruido,torbellino,campaña,movimiento,movimiento,movimiento,movimiento,movimiento,movimiento,movimiento_intestinal,movimiento
+adeudos 	 
+efectivo 	 efectivo,vigente,efectivo,acuñacion,efectivo,metalico,acuñacion,efectivo,metalico
+movil 	 movil,movil,movil
+operaciones_agiles 	 
+agenda 	 
+de 	 de,delaware,estado_diamante,primer_estado
+contactos 	 contacto,contacto,contacto,conexion,contacto,coordinacion,contacto,contacto,roce,toque,contacto,enlace,contacto,contacto,contacto,intercambio,relacion,trato,contacto
+impuestos 	 impuesto,canon,carga,contribucion,gabela,gravamen,imposicion,impuesto,tasa,tributacion,tributo,cargar,imponer,infligir,inflingir,imponer,gravar,imponer,imponer,mandar
+estatales 	 estatal
+pagos 	 abono,pago,pago,abono,desembolso,pago,amortizacion,pago,reembolso,reintegro
+no 	 no
+domiciliados 	 albergar,alojar,dar_alojamiento,domiciliar,hospedar
+cuenta 	 carrera,cuenta,cuenta,enumeracion,cuenta,abalorio,astragalo,cuenta,junquillo,cuenta,nota,cuenta,cuenta,contar,considerar,contar,aguardar,contar,esperar,esperar_con_expectacion,contar,decir,contar,contar,enumerar,contar,explicar,narrar,calcular,contar,contar,importar,contar,carrera,cuenta,cuenta,enumeracion,cuenta,abalorio,astragalo,cuenta,junquillo,cuenta,nota,cuenta,cuenta,contar,considerar,contar,aguardar,contar,esperar,esperar_con_expectacion,contar,decir,contar,contar,enumerar,contar,explicar,narrar,calcular,contar,contar,importar,contar
+tarjeta 	 tarjeta,tarjeta_de_expansion,tarjeta,tarjeta,tarjeta,tarjeta,tarjeta_de_expansion,tarjeta,tarjeta,tarjeta
+depositos 	 deposito,almacenaje,almacenamiento,deposito,reposicion,deposito,deposito,almacen,deposito,deposito,almacen,deposito,deposito,deposito,sedimento,aluvion,deposito,sedimentacion,deposito,deposito,ingreso,deposito,deposito,deposito
+de 	 de,delaware,estado_diamante,primer_estado
+interes 	 beneficio,bien,interes,provecho,beneficio,bien,interes,provecho,utilidad,interes,interes,atencion,encuesta,estudio,exploracion,interes,investigacion,interes,participacion,interes
+fijo 	 fijo,definido,definitivo,fijo,preciso,seguro,fijo,fijo,inmovil,fijo,rigido,estable,fijo,permanente,estable,fijo,firme,seguro,fijo,firme,fijar,clavar,enfocar,fijar,determinar,especificar,fijar,precisar,arreglar,fijar,preparar,asegurar,fijar,sujetar,atar,fijar,apostar,colocar,fijar,oponer,situar,fijar,poner,fijar
+depositos 	 deposito,almacenaje,almacenamiento,deposito,reposicion,deposito,deposito,almacen,deposito,deposito,almacen,deposito,deposito,deposito,sedimento,aluvion,deposito,sedimentacion,deposito,deposito,ingreso,deposito,deposito,deposito
+estructurados 	 estructurar
+fondos_de_inversion 	 
+planes_de_pensiones 	 
+valores 	 bravura,coraje,intrepidez,osadia,valor,animo,coraje,fuerza,valor,atrevimiento,audacia,cara,cara_dura,osadia,valor,coraje,entereza,valentia,valor,valor,coraje,valor,valor,agallas,coraje,discernimiento,nervio,sangre_fria,valor,valor,precio,valor,valor,valor,coraje,valor,valor,valor,valor_del_tiempo,valorar,valorar,evaluar,tasar,valorar,apreciar,estimar,respetar,valorar,repasar,revisar,valorar,apreciar,valorar,apreciar,estimar,valorar,apreciar,atesorar,estimar,valorar,valorar,valorar
+seguros 	 seguridad_social,seguro,seguro,puerta,seguro,seguro,seguro,seguro,poliza,poliza_de_seguros,seguro,proteccion,seguridad,seguro,contrato_de_seguro,seguro,seguro,seguro,seguro,seguro,seguro,seguro,seguro,inevitable,seguro,definido,definitivo,fijo,preciso,seguro,seguro,certero,seguro,protegido,seguro,seguro,seguro,seguro,seguro,seguro,firme,seguro,seguro,estable,fijo,firme,seguro,seguro,seguro,seguro,seguro
+prestamos 	 prestamo,prestamo,prestamo,prestamo_lingüistico,emprestito,prestamo
+hipotecas 	 hipotecar,pignorar
+carteras 	 cartera,cartera,portacartas,saco_de_correos,valija_de_correo,cartera,cartera,cartero
+asesoradas 	 
+carteras 	 cartera,cartera,portacartas,saco_de_correos,valija_de_correo,cartera,cartera,cartero
+gestionadas 	 
