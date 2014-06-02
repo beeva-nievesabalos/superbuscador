@@ -4,6 +4,6 @@
  */
 
 exports.index = function(req, res){
-  res.render('index', { title: 'BBVA' , information: ''});
+  res.render('index', { title: 'Superbuscador BBVA' , information: ''});
 };
 
