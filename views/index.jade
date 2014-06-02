@@ -5,9 +5,10 @@ block content
   p
   p
   form(method='post',action='')
-        label(for='query') query:
-        input(type='text',name='query',id='query')    
+        label(for='query') Consulta:
+        input(type='text',name='query',id='query',style='width: 238px;margin-left: 5px;') 
         p
+        p(style='float: left;margin-top: 0px;margin-right: 5px;')= aux 
+        p(style='font-weight: bold;')= information
         input(type='submit',name='submit',value='Submit').submit-button
-  p
-  p= information
+

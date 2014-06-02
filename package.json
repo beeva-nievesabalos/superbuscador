@@ -1,0 +1,17 @@
+{
+  "name": "innovacion-superbuscador",
+  "version": "0.1.0",
+  "description": "",
+  "main": "server.js",
+  "dependencies": {
+    "express": "*",
+    "teacher": "*",
+    "jade": "*",
+    "natural": "*",
+    "body-parser":"*",
+    "method-override":"*"
+  },
+  "scripts": {
+    "start": "node server.js"
+  }
+}
