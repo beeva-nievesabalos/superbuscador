@@ -8,7 +8,7 @@ Para arrancar el servicio:
 
 Para la invocación de los servicios del superbuscador se han desarrollado dos interfaces:
 - Pagina web: http://79.125.61.253:2185/
-- API: http://79.125.61.253:2185/superbuscador/”Cadena a analizar”
+- API: http://79.125.61.253:2185/superbuscador/”frase_a_analizar”
  
 
 CORRECTOR ORTOGRÁFICO
